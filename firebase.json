@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/plant-on-rent",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

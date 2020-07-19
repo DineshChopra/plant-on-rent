@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "plantonrent-2496b"
+  },
+  "targets": {
+    "plantonrent-2496b": {
+      "hosting": {
+        "plant-on-rent": [
+          "plantonrent-2496b"
+        ]
+      }
+    }
+  }
+}

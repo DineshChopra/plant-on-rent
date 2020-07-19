@@ -1,0 +1,36 @@
+.plant-image {
+    height: 350px;
+    
+}
+.plant {
+    width: 100%;
+    height: 100%;
+    border-radius: 5px;
+}
+.name {
+    font-size: 16px;
+    font-weight: 600;
+    margin-top: 13px;
+}
+
+.details-button {
+    width: 112px;
+    height: 32px;
+    background-color: #2ea44f;
+    border-color: rgba(27,31,35,.15);
+    box-shadow: 0 1px 0 rgba(27,31,35,.1), inset 0 1px 0 hsla(0,0%,100%,.03);
+    
+  font-family: Raleway;
+  font-size: 16px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 5px;
+  margin-top: 10px;
+
+}
