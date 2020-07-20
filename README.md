@@ -27,7 +27,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 ## Firebase setup - One time process:   
   https://firebase.google.com/docs/web/setup
-  Global installation for firebase tools: npm install -g firebase-tools
+  
+  Global installation for firebase tools: 
+  ```
+  npm install -g firebase-tools
+  ```
   ```firebase login```
 
 ## Build and deploy on firebase
@@ -35,4 +39,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
   ng build
   firebase deploy
   ```
+Manoj testing
 
